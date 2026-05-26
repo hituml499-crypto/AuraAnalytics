@@ -1,0 +1,1128 @@
+CustomerID,Recency,Frequency,Monetary,Country,Cluster,Segment
+10000,445,9,535.87,United Kingdom,0,At-Risk Spenders
+10001,106,10,266.25,United Kingdom,0,At-Risk Spenders
+10002,271,19,911.9,United Kingdom,3,Champions
+10004,173,11,424.67,Spain,0,At-Risk Spenders
+10005,62,16,640.07,United Kingdom,3,Champions
+10006,336,3,118.45,Netherlands,2,Lost/Hibernating
+10007,228,20,1092.16,United Kingdom,3,Champions
+10008,275,1,41.42,France,2,Lost/Hibernating
+10009,238,3,120.3,Spain,2,Lost/Hibernating
+10010,83,15,483.92,France,3,Champions
+10011,427,2,245.3,France,2,Lost/Hibernating
+10012,281,9,1667.75,Netherlands,3,Champions
+10013,125,5,339.84000000000003,United Kingdom,0,At-Risk Spenders
+10014,200,7,273.61,United Kingdom,0,At-Risk Spenders
+10015,14,24,1892.34,United Kingdom,1,Loyal Spenders
+10017,16,6,145.39000000000001,Germany,0,At-Risk Spenders
+10018,11,9,298.19,EIRE,1,Loyal Spenders
+10019,521,3,63.99,EIRE,2,Lost/Hibernating
+10020,23,3,85.35,Netherlands,2,Lost/Hibernating
+10022,59,5,189.54999999999998,Germany,0,At-Risk Spenders
+10023,355,35,1552.36,Germany,3,Champions
+10024,143,13,363.87,Netherlands,0,At-Risk Spenders
+10025,284,4,124.77,United Kingdom,0,At-Risk Spenders
+10026,370,1,49.81,United Kingdom,2,Lost/Hibernating
+10027,65,31,5605.62,Germany,3,Champions
+10028,89,3,642.86,France,0,At-Risk Spenders
+10029,247,8,730.16,Germany,0,At-Risk Spenders
+10030,143,2,114.93,Netherlands,2,Lost/Hibernating
+10031,270,1,38.53,United Kingdom,2,Lost/Hibernating
+10033,123,105,7297.74,Spain,3,Champions
+10034,22,7,600.32,United Kingdom,1,Loyal Spenders
+10035,127,9,246.62,Spain,0,At-Risk Spenders
+10036,32,6,173.34,EIRE,0,At-Risk Spenders
+10037,380,2,185.34,Germany,2,Lost/Hibernating
+10038,11,10,424.67,France,1,Loyal Spenders
+10039,135,1,40.49,United Kingdom,2,Lost/Hibernating
+10040,257,10,462.46,Spain,0,At-Risk Spenders
+10041,133,29,843.31,United Kingdom,3,Champions
+10042,541,1,46.04,United Kingdom,2,Lost/Hibernating
+10043,44,10,579.57,Netherlands,0,At-Risk Spenders
+10044,5,7,476.58000000000004,EIRE,1,Loyal Spenders
+10045,30,3,70.38,EIRE,2,Lost/Hibernating
+10046,526,2,43.0,United Kingdom,2,Lost/Hibernating
+10047,162,28,1145.5,Netherlands,3,Champions
+10048,308,8,572.46,France,0,At-Risk Spenders
+10049,94,1,43.2,United Kingdom,2,Lost/Hibernating
+10050,362,33,1227.92,United Kingdom,3,Champions
+10051,4,22,660.95,Netherlands,1,Loyal Spenders
+10052,5,13,329.65,United Kingdom,1,Loyal Spenders
+10053,4,9,607.35,France,1,Loyal Spenders
+10054,178,22,2070.71,France,3,Champions
+10055,20,4,210.41,Netherlands,0,At-Risk Spenders
+10056,419,1,14.379999999999999,United Kingdom,2,Lost/Hibernating
+10057,289,7,274.91,United Kingdom,0,At-Risk Spenders
+10058,68,6,325.34,United Kingdom,0,At-Risk Spenders
+10059,37,65,2974.83,France,3,Champions
+10060,289,11,485.27,Spain,0,At-Risk Spenders
+10061,63,26,3705.9900000000002,Germany,3,Champions
+10062,42,12,466.28000000000003,EIRE,0,At-Risk Spenders
+10063,23,5,166.54,EIRE,0,At-Risk Spenders
+10064,27,3,263.73,United Kingdom,0,At-Risk Spenders
+10065,163,5,272.09000000000003,France,0,At-Risk Spenders
+10066,125,19,1081.3700000000001,United Kingdom,3,Champions
+10067,555,1,30.44,Germany,2,Lost/Hibernating
+10068,696,3,102.4,Spain,2,Lost/Hibernating
+10069,256,6,118.85,United Kingdom,0,At-Risk Spenders
+10070,550,4,238.37,Germany,0,At-Risk Spenders
+10071,279,8,244.39,United Kingdom,0,At-Risk Spenders
+10073,109,55,2683.32,Spain,3,Champions
+10074,23,11,227.43,Spain,0,At-Risk Spenders
+10075,391,6,258.16,United Kingdom,0,At-Risk Spenders
+10076,309,15,705.47,Spain,3,Champions
+10077,80,2,70.34,EIRE,2,Lost/Hibernating
+10078,138,13,719.7,France,3,Champions
+10079,123,42,3549.75,EIRE,3,Champions
+10080,3,11,426.56,United Kingdom,1,Loyal Spenders
+10081,555,1,42.66,United Kingdom,2,Lost/Hibernating
+10082,20,14,1621.3600000000001,United Kingdom,1,Loyal Spenders
+10083,6,27,521.77,EIRE,1,Loyal Spenders
+10084,11,6,152.96,Germany,0,At-Risk Spenders
+10085,114,27,953.73,Spain,3,Champions
+10086,27,25,750.9,France,1,Loyal Spenders
+10087,290,2,44.59,United Kingdom,2,Lost/Hibernating
+10088,122,67,2263.99,United Kingdom,3,Champions
+10089,282,4,65.46,United Kingdom,2,Lost/Hibernating
+10090,188,6,192.14,Spain,0,At-Risk Spenders
+10091,18,24,2851.95,United Kingdom,1,Loyal Spenders
+10092,351,3,65.03999999999999,Spain,2,Lost/Hibernating
+10093,664,1,41.58,United Kingdom,2,Lost/Hibernating
+10094,49,21,790.71,Germany,3,Champions
+10095,540,1,74.04,United Kingdom,2,Lost/Hibernating
+10096,313,2,60.53,France,2,Lost/Hibernating
+10097,42,5,275.6,United Kingdom,0,At-Risk Spenders
+10098,588,1,33.04,Spain,2,Lost/Hibernating
+10099,491,6,295.47,Spain,0,At-Risk Spenders
+10100,169,4,409.73,Germany,0,At-Risk Spenders
+10101,483,2,122.99,Spain,2,Lost/Hibernating
+10102,329,5,194.85,France,0,At-Risk Spenders
+10103,205,33,4193.23,United Kingdom,3,Champions
+10104,13,38,2412.95,France,1,Loyal Spenders
+10105,368,9,181.06,France,0,At-Risk Spenders
+10106,17,25,1537.55,Netherlands,1,Loyal Spenders
+10107,34,6,252.81,United Kingdom,0,At-Risk Spenders
+10108,177,16,2729.52,Germany,3,Champions
+10109,1,4,618.91,Spain,1,Loyal Spenders
+10110,431,4,200.21,Netherlands,0,At-Risk Spenders
+10111,494,2,225.49,Spain,2,Lost/Hibernating
+10112,44,4,116.97,United Kingdom,0,At-Risk Spenders
+10113,29,14,1646.72,United Kingdom,1,Loyal Spenders
+10114,306,15,1503.86,United Kingdom,3,Champions
+10115,3,28,1072.24,EIRE,1,Loyal Spenders
+10116,167,7,445.17,United Kingdom,0,At-Risk Spenders
+10117,50,23,2209.8,France,3,Champions
+10118,4,8,314.51,United Kingdom,1,Loyal Spenders
+10119,186,13,181.63,United Kingdom,0,At-Risk Spenders
+10120,298,38,1523.06,Netherlands,3,Champions
+10121,3,44,1483.29,United Kingdom,1,Loyal Spenders
+10122,93,19,2646.7,United Kingdom,3,Champions
+10123,2,36,7087.95,United Kingdom,1,Loyal Spenders
+10124,148,2,133.94,United Kingdom,2,Lost/Hibernating
+10125,219,21,3849.26,United Kingdom,3,Champions
+10126,68,6,121.74,United Kingdom,0,At-Risk Spenders
+10127,204,7,113.13,United Kingdom,0,At-Risk Spenders
+10128,510,3,240.69,Netherlands,0,At-Risk Spenders
+10129,559,3,192.8,United Kingdom,0,At-Risk Spenders
+10130,35,3,177.13,EIRE,0,At-Risk Spenders
+10131,493,4,421.95,United Kingdom,0,At-Risk Spenders
+10132,391,6,336.46,United Kingdom,0,At-Risk Spenders
+10133,347,34,3067.85,United Kingdom,3,Champions
+10134,473,2,69.33,United Kingdom,2,Lost/Hibernating
+10135,44,8,410.38,EIRE,0,At-Risk Spenders
+10136,125,17,3614.08,United Kingdom,3,Champions
+10137,24,12,1410.08,Spain,1,Loyal Spenders
+10139,263,2,94.29,United Kingdom,2,Lost/Hibernating
+10140,38,20,765.0,United Kingdom,3,Champions
+10141,222,9,325.13,United Kingdom,0,At-Risk Spenders
+10142,44,6,243.76,EIRE,0,At-Risk Spenders
+10143,7,24,2282.9900000000002,Spain,1,Loyal Spenders
+10144,473,8,479.21,Germany,0,At-Risk Spenders
+10145,514,1,45.22,Netherlands,2,Lost/Hibernating
+10146,85,7,545.47,United Kingdom,0,At-Risk Spenders
+10147,82,74,2077.7,Spain,3,Champions
+10148,382,20,1190.9,EIRE,3,Champions
+10149,92,2,71.65,Netherlands,2,Lost/Hibernating
+10150,19,42,3202.97,United Kingdom,1,Loyal Spenders
+10152,477,8,496.79,Germany,0,At-Risk Spenders
+10153,237,3,100.67,Spain,2,Lost/Hibernating
+10155,166,1,56.12,Netherlands,2,Lost/Hibernating
+10156,497,4,298.74,Germany,0,At-Risk Spenders
+10157,78,12,356.46,Netherlands,0,At-Risk Spenders
+10158,182,2,74.84,United Kingdom,2,Lost/Hibernating
+10159,306,5,158.12,United Kingdom,0,At-Risk Spenders
+10160,178,6,309.59,United Kingdom,0,At-Risk Spenders
+10161,29,6,206.08,Spain,0,At-Risk Spenders
+10162,272,15,469.25,Spain,3,Champions
+10163,24,27,781.92,Spain,1,Loyal Spenders
+10164,131,3,103.80000000000001,Germany,2,Lost/Hibernating
+10166,3,62,1228.73,Netherlands,1,Loyal Spenders
+10167,1,7,658.11,EIRE,1,Loyal Spenders
+10168,86,23,640.81,Netherlands,3,Champions
+10169,5,8,202.91,United Kingdom,1,Loyal Spenders
+10170,150,1,79.07,Netherlands,2,Lost/Hibernating
+10171,11,5,580.52,United Kingdom,1,Loyal Spenders
+10172,21,2,77.75,United Kingdom,2,Lost/Hibernating
+10173,509,5,164.98,Germany,0,At-Risk Spenders
+10175,346,5,278.93,United Kingdom,0,At-Risk Spenders
+10176,131,1,33.07,United Kingdom,2,Lost/Hibernating
+10177,71,33,836.67,United Kingdom,3,Champions
+10178,24,13,558.85,United Kingdom,1,Loyal Spenders
+10179,134,3,221.15,Spain,0,At-Risk Spenders
+10180,590,3,92.2,EIRE,2,Lost/Hibernating
+10181,99,6,85.53,Spain,0,At-Risk Spenders
+10182,18,6,162.72,EIRE,0,At-Risk Spenders
+10183,8,4,277.75,Germany,1,Loyal Spenders
+10184,84,22,659.74,United Kingdom,3,Champions
+10185,63,12,416.61,Spain,0,At-Risk Spenders
+10186,130,15,690.73,United Kingdom,3,Champions
+10187,30,1,17.28,United Kingdom,2,Lost/Hibernating
+10188,5,7,569.47,United Kingdom,1,Loyal Spenders
+10189,7,54,996.7,Germany,1,Loyal Spenders
+10190,66,13,838.62,Spain,3,Champions
+10191,59,13,973.96,EIRE,3,Champions
+10192,122,1,221.19,EIRE,2,Lost/Hibernating
+10193,28,6,136.55,United Kingdom,0,At-Risk Spenders
+10194,57,9,731.59,France,0,At-Risk Spenders
+10195,230,3,103.1,Netherlands,2,Lost/Hibernating
+10196,98,6,304.35,France,0,At-Risk Spenders
+10197,2,3,298.58,United Kingdom,1,Loyal Spenders
+10198,242,7,162.85,France,0,At-Risk Spenders
+10199,201,7,217.74,United Kingdom,0,At-Risk Spenders
+10200,566,3,158.46,United Kingdom,2,Lost/Hibernating
+10201,4,49,2903.93,EIRE,1,Loyal Spenders
+10202,15,12,466.71999999999997,Netherlands,1,Loyal Spenders
+10203,49,2,111.49,France,2,Lost/Hibernating
+10204,3,4,151.53,France,1,Loyal Spenders
+10206,50,27,861.0,France,3,Champions
+10207,10,27,818.28,Germany,1,Loyal Spenders
+10208,239,7,145.29,Spain,0,At-Risk Spenders
+10209,255,8,312.33000000000004,France,0,At-Risk Spenders
+10210,13,20,448.3,Germany,1,Loyal Spenders
+10211,224,8,348.86,Spain,0,At-Risk Spenders
+10212,244,5,612.01,Netherlands,0,At-Risk Spenders
+10214,599,4,619.71,France,0,At-Risk Spenders
+10215,267,1,52.559999999999995,United Kingdom,2,Lost/Hibernating
+10216,1,24,4277.95,EIRE,1,Loyal Spenders
+10217,66,3,158.53,EIRE,0,At-Risk Spenders
+10218,148,9,315.59,France,0,At-Risk Spenders
+10219,81,13,855.34,United Kingdom,3,Champions
+10220,381,6,203.47,United Kingdom,0,At-Risk Spenders
+10222,55,15,562.58,Spain,3,Champions
+10223,427,7,181.17000000000002,Netherlands,0,At-Risk Spenders
+10224,125,7,248.09,Spain,0,At-Risk Spenders
+10225,151,17,348.2,Germany,0,At-Risk Spenders
+10226,12,38,1727.1200000000001,United Kingdom,1,Loyal Spenders
+10227,256,14,359.49,Netherlands,0,At-Risk Spenders
+10228,3,5,398.64,United Kingdom,1,Loyal Spenders
+10229,341,3,212.85,Germany,0,At-Risk Spenders
+10230,365,6,191.6,United Kingdom,0,At-Risk Spenders
+10231,106,16,358.72,United Kingdom,0,At-Risk Spenders
+10232,11,47,3405.7200000000003,Netherlands,1,Loyal Spenders
+10233,3,96,2690.6,United Kingdom,1,Loyal Spenders
+10234,575,1,147.67000000000002,EIRE,2,Lost/Hibernating
+10235,130,8,601.53,United Kingdom,0,At-Risk Spenders
+10236,65,13,560.81,United Kingdom,3,Champions
+10237,362,14,468.54,France,0,At-Risk Spenders
+10238,6,12,531.51,EIRE,1,Loyal Spenders
+10239,317,4,231.65,United Kingdom,0,At-Risk Spenders
+10240,320,2,439.03,Spain,0,At-Risk Spenders
+10241,165,2,128.57,France,2,Lost/Hibernating
+10242,571,4,164.2,United Kingdom,0,At-Risk Spenders
+10243,283,7,283.59,Germany,0,At-Risk Spenders
+10244,63,39,2346.44,Spain,3,Champions
+10245,151,20,1886.46,United Kingdom,3,Champions
+10246,13,51,2068.71,EIRE,1,Loyal Spenders
+10247,228,1,28.660000000000004,United Kingdom,2,Lost/Hibernating
+10248,226,5,284.26,Netherlands,0,At-Risk Spenders
+10249,18,18,560.84,United Kingdom,1,Loyal Spenders
+10251,324,18,497.25,Germany,3,Champions
+10252,36,10,299.72,France,0,At-Risk Spenders
+10254,10,12,259.93,United Kingdom,1,Loyal Spenders
+10255,3,30,1000.08,United Kingdom,1,Loyal Spenders
+10256,37,2,139.1,Netherlands,2,Lost/Hibernating
+10257,54,5,150.07,Germany,0,At-Risk Spenders
+10258,349,15,270.07,United Kingdom,0,At-Risk Spenders
+10259,16,11,699.65,Netherlands,1,Loyal Spenders
+10260,38,14,482.75,France,1,Loyal Spenders
+10261,14,16,633.03,France,1,Loyal Spenders
+10264,528,1,41.34,United Kingdom,2,Lost/Hibernating
+10265,94,1,74.7,Netherlands,2,Lost/Hibernating
+10266,327,6,247.02,Germany,0,At-Risk Spenders
+10267,211,8,580.21,Spain,0,At-Risk Spenders
+10268,16,48,5949.8,Spain,1,Loyal Spenders
+10269,201,4,367.23,Netherlands,0,At-Risk Spenders
+10270,410,21,1174.04,United Kingdom,3,Champions
+10272,372,4,168.71,France,0,At-Risk Spenders
+10273,530,3,51.79,Germany,2,Lost/Hibernating
+10274,391,55,1956.71,EIRE,3,Champions
+10275,202,1,19.580000000000002,EIRE,2,Lost/Hibernating
+10277,118,51,2629.04,EIRE,3,Champions
+10278,246,5,309.1,United Kingdom,0,At-Risk Spenders
+10279,155,15,585.71,United Kingdom,3,Champions
+10280,380,8,915.29,France,3,Champions
+10281,475,2,56.04,Germany,2,Lost/Hibernating
+10282,537,2,33.77,United Kingdom,2,Lost/Hibernating
+10283,118,2,50.589999999999996,France,2,Lost/Hibernating
+10284,70,15,754.36,Spain,3,Champions
+10285,41,29,2951.48,Spain,3,Champions
+10286,194,57,1699.5,EIRE,3,Champions
+10287,3,28,685.65,France,1,Loyal Spenders
+10288,29,11,1577.64,Germany,1,Loyal Spenders
+10289,579,4,141.81,United Kingdom,0,At-Risk Spenders
+10290,41,16,1055.42,Germany,3,Champions
+10291,1,40,5127.68,EIRE,1,Loyal Spenders
+10293,129,5,160.69,France,0,At-Risk Spenders
+10294,33,4,113.24,France,0,At-Risk Spenders
+10295,290,10,475.93,France,0,At-Risk Spenders
+10296,389,23,847.08,EIRE,3,Champions
+10297,502,10,361.22,EIRE,0,At-Risk Spenders
+10298,88,2,211.34,Netherlands,2,Lost/Hibernating
+10299,638,3,272.72,EIRE,0,At-Risk Spenders
+10300,48,22,1204.01,EIRE,3,Champions
+10301,191,13,952.33,United Kingdom,3,Champions
+10302,307,1,44.239999999999995,United Kingdom,2,Lost/Hibernating
+10303,207,2,389.16,EIRE,0,At-Risk Spenders
+10304,3,22,1018.49,United Kingdom,1,Loyal Spenders
+10305,324,2,78.1,France,2,Lost/Hibernating
+10307,209,13,604.44,United Kingdom,3,Champions
+10308,81,6,348.52,France,0,At-Risk Spenders
+10309,160,1,28.27,Netherlands,2,Lost/Hibernating
+10310,369,31,839.15,United Kingdom,3,Champions
+10311,182,2,34.93,France,2,Lost/Hibernating
+10312,362,2,117.8,France,2,Lost/Hibernating
+10313,164,13,843.4599999999999,Spain,3,Champions
+10314,8,4,169.6,United Kingdom,0,At-Risk Spenders
+10315,18,10,257.84000000000003,United Kingdom,1,Loyal Spenders
+10316,149,1,52.94,EIRE,2,Lost/Hibernating
+10318,67,16,2017.23,United Kingdom,3,Champions
+10319,8,36,1292.79,France,1,Loyal Spenders
+10320,69,3,491.71999999999997,EIRE,0,At-Risk Spenders
+10321,11,55,3415.54,United Kingdom,1,Loyal Spenders
+10322,552,3,156.73000000000002,United Kingdom,2,Lost/Hibernating
+10323,270,5,192.89,Netherlands,0,At-Risk Spenders
+10324,25,33,1264.81,EIRE,1,Loyal Spenders
+10325,194,4,281.75,United Kingdom,0,At-Risk Spenders
+10326,475,14,821.47,United Kingdom,3,Champions
+10327,29,5,424.94,Germany,0,At-Risk Spenders
+10328,54,4,228.55,France,0,At-Risk Spenders
+10329,296,18,2381.29,Spain,3,Champions
+10330,177,5,147.9,Spain,0,At-Risk Spenders
+10332,116,12,605.91,United Kingdom,3,Champions
+10333,316,2,43.96,Germany,2,Lost/Hibernating
+10335,191,16,338.69,Netherlands,0,At-Risk Spenders
+10336,178,6,389.72,EIRE,0,At-Risk Spenders
+10337,112,11,236.63,Germany,0,At-Risk Spenders
+10338,7,61,6886.12,United Kingdom,1,Loyal Spenders
+10339,458,5,224.63,Germany,0,At-Risk Spenders
+10340,81,1,56.06,EIRE,2,Lost/Hibernating
+10341,9,5,144.38,Germany,0,At-Risk Spenders
+10342,1,19,1056.4,France,1,Loyal Spenders
+10343,27,10,197.87,EIRE,0,At-Risk Spenders
+10344,360,1,37.07,Spain,2,Lost/Hibernating
+10345,50,8,329.71999999999997,France,0,At-Risk Spenders
+10346,34,8,733.55,Germany,1,Loyal Spenders
+10347,35,16,776.2,Germany,1,Loyal Spenders
+10348,63,4,313.07,Germany,0,At-Risk Spenders
+10349,171,2,146.41000000000003,Netherlands,2,Lost/Hibernating
+10350,51,2,77.09,EIRE,2,Lost/Hibernating
+10352,274,3,62.25,Netherlands,2,Lost/Hibernating
+10353,80,3,294.73,United Kingdom,0,At-Risk Spenders
+10354,296,2,29.93,France,2,Lost/Hibernating
+10355,37,1,41.449999999999996,Netherlands,2,Lost/Hibernating
+10356,84,14,338.34,United Kingdom,0,At-Risk Spenders
+10357,137,5,244.85,United Kingdom,0,At-Risk Spenders
+10358,178,4,92.05,United Kingdom,2,Lost/Hibernating
+10359,246,6,641.13,EIRE,0,At-Risk Spenders
+10360,169,4,186.57,United Kingdom,0,At-Risk Spenders
+10362,5,54,1925.44,France,1,Loyal Spenders
+10363,56,17,1901.98,United Kingdom,3,Champions
+10364,320,33,1812.04,EIRE,3,Champions
+10365,371,9,286.33,United Kingdom,0,At-Risk Spenders
+10366,19,79,5746.56,Netherlands,1,Loyal Spenders
+10367,252,45,2158.36,EIRE,3,Champions
+10368,1,18,446.67,United Kingdom,1,Loyal Spenders
+10369,187,14,655.55,Germany,3,Champions
+10370,9,12,894.42,Spain,1,Loyal Spenders
+10371,78,9,468.09,United Kingdom,0,At-Risk Spenders
+10372,1,14,366.90999999999997,Germany,1,Loyal Spenders
+10373,249,22,496.35,Spain,3,Champions
+10374,28,15,1771.67,Netherlands,1,Loyal Spenders
+10375,117,2,80.51,Germany,2,Lost/Hibernating
+10376,7,2,69.69,EIRE,2,Lost/Hibernating
+10377,17,22,1390.67,France,1,Loyal Spenders
+10378,148,1,40.93,Germany,2,Lost/Hibernating
+10379,278,9,330.09,France,0,At-Risk Spenders
+10380,49,14,325.2,United Kingdom,0,At-Risk Spenders
+10381,381,2,63.24,Netherlands,2,Lost/Hibernating
+10382,502,31,3781.7400000000002,United Kingdom,3,Champions
+10383,72,5,184.74,United Kingdom,0,At-Risk Spenders
+10384,58,1,62.62,United Kingdom,2,Lost/Hibernating
+10386,205,20,861.55,France,3,Champions
+10387,474,14,679.44,Germany,3,Champions
+10388,18,9,356.26,Netherlands,1,Loyal Spenders
+10389,58,5,260.79,United Kingdom,0,At-Risk Spenders
+10390,13,24,930.95,Germany,1,Loyal Spenders
+10391,11,21,1867.53,France,1,Loyal Spenders
+10392,130,34,1002.5,United Kingdom,3,Champions
+10393,63,12,658.66,United Kingdom,3,Champions
+10394,2,121,3125.35,EIRE,1,Loyal Spenders
+10395,376,7,458.5,United Kingdom,0,At-Risk Spenders
+10396,324,27,923.05,Spain,3,Champions
+10397,18,46,2251.81,France,1,Loyal Spenders
+10398,254,17,588.03,Spain,3,Champions
+10399,68,11,264.26,Netherlands,0,At-Risk Spenders
+10400,430,1,78.34,Spain,2,Lost/Hibernating
+10401,175,21,685.59,United Kingdom,3,Champions
+10402,140,11,255.04,United Kingdom,0,At-Risk Spenders
+10403,222,4,149.93,United Kingdom,0,At-Risk Spenders
+10404,550,1,33.01,France,2,Lost/Hibernating
+10406,612,5,319.45,France,0,At-Risk Spenders
+10407,177,1,67.56,Spain,2,Lost/Hibernating
+10408,1,8,400.75,United Kingdom,1,Loyal Spenders
+10409,139,83,1620.18,Spain,3,Champions
+10410,133,2,90.76,United Kingdom,2,Lost/Hibernating
+10411,397,15,764.39,United Kingdom,3,Champions
+10412,86,29,2013.39,Spain,3,Champions
+10413,127,2,30.569999999999997,EIRE,2,Lost/Hibernating
+10414,13,4,130.38,Spain,0,At-Risk Spenders
+10417,31,5,220.98,Germany,0,At-Risk Spenders
+10418,66,8,1249.25,Netherlands,3,Champions
+10419,418,4,259.19,United Kingdom,0,At-Risk Spenders
+10421,12,15,765.05,United Kingdom,1,Loyal Spenders
+10422,561,4,224.34,France,0,At-Risk Spenders
+10423,22,26,1321.46,United Kingdom,1,Loyal Spenders
+10424,29,11,293.46,France,0,At-Risk Spenders
+10425,469,11,622.25,United Kingdom,3,Champions
+10426,256,9,325.96,United Kingdom,0,At-Risk Spenders
+10427,152,40,4340.97,EIRE,3,Champions
+10428,156,91,3354.18,France,3,Champions
+10429,196,3,233.19,United Kingdom,0,At-Risk Spenders
+10430,174,2,65.81,United Kingdom,2,Lost/Hibernating
+10431,3,24,886.17,France,1,Loyal Spenders
+10432,40,1,45.46,Spain,2,Lost/Hibernating
+10433,126,1,62.9,United Kingdom,2,Lost/Hibernating
+10434,38,7,274.48,United Kingdom,0,At-Risk Spenders
+10435,123,11,348.85,Netherlands,0,At-Risk Spenders
+10436,48,14,501.01,United Kingdom,0,At-Risk Spenders
+10437,445,2,180.46,France,2,Lost/Hibernating
+10438,20,5,94.45,EIRE,0,At-Risk Spenders
+10439,49,12,366.19,United Kingdom,0,At-Risk Spenders
+10440,132,7,410.04,United Kingdom,0,At-Risk Spenders
+10441,4,12,626.73,Germany,1,Loyal Spenders
+10442,8,6,188.79,United Kingdom,1,Loyal Spenders
+10443,415,20,713.95,United Kingdom,3,Champions
+10444,467,3,277.95,Germany,0,At-Risk Spenders
+10445,12,21,959.38,United Kingdom,1,Loyal Spenders
+10446,9,38,1664.11,France,1,Loyal Spenders
+10447,442,2,118.11,Germany,2,Lost/Hibernating
+10448,76,27,1581.81,Spain,3,Champions
+10449,128,53,2387.79,EIRE,3,Champions
+10450,1,17,537.72,United Kingdom,1,Loyal Spenders
+10451,55,3,71.4,EIRE,2,Lost/Hibernating
+10452,227,10,366.13,United Kingdom,0,At-Risk Spenders
+10453,22,18,744.9,United Kingdom,1,Loyal Spenders
+10454,3,36,1952.68,Spain,1,Loyal Spenders
+10455,11,22,867.02,EIRE,1,Loyal Spenders
+10456,47,2,149.43,Spain,2,Lost/Hibernating
+10457,409,2,87.38,United Kingdom,2,Lost/Hibernating
+10458,36,14,373.02,United Kingdom,0,At-Risk Spenders
+10459,72,8,415.67,United Kingdom,0,At-Risk Spenders
+10460,233,16,569.28,United Kingdom,3,Champions
+10461,468,1,24.380000000000003,United Kingdom,2,Lost/Hibernating
+10462,73,2,273.13,United Kingdom,0,At-Risk Spenders
+10463,57,11,1101.87,United Kingdom,3,Champions
+10465,107,9,255.85,France,0,At-Risk Spenders
+10466,141,6,280.11,Spain,0,At-Risk Spenders
+10467,371,12,763.86,EIRE,3,Champions
+10468,220,1,322.28,Spain,2,Lost/Hibernating
+10469,604,2,53.87,United Kingdom,2,Lost/Hibernating
+10470,552,2,180.04,Germany,2,Lost/Hibernating
+10471,164,1,46.0,United Kingdom,2,Lost/Hibernating
+10472,106,6,630.33,United Kingdom,0,At-Risk Spenders
+10473,321,14,836.36,France,3,Champions
+10474,179,6,121.2,EIRE,0,At-Risk Spenders
+10475,200,2,79.7,Netherlands,2,Lost/Hibernating
+10476,268,25,853.92,Germany,3,Champions
+10477,27,17,841.9300000000001,United Kingdom,1,Loyal Spenders
+10478,8,9,828.99,EIRE,1,Loyal Spenders
+10479,61,3,88.83,Germany,2,Lost/Hibernating
+10480,281,1,36.44,Spain,2,Lost/Hibernating
+10481,10,20,858.4,United Kingdom,1,Loyal Spenders
+10482,44,2,67.54,Spain,2,Lost/Hibernating
+10483,20,7,218.82,EIRE,0,At-Risk Spenders
+10484,223,9,551.3000000000001,United Kingdom,0,At-Risk Spenders
+10485,55,2,77.27,EIRE,2,Lost/Hibernating
+10486,1,49,5176.38,Germany,1,Loyal Spenders
+10487,9,30,1300.27,United Kingdom,1,Loyal Spenders
+10488,415,8,629.0699999999999,Netherlands,0,At-Risk Spenders
+10489,2,55,1508.33,Netherlands,1,Loyal Spenders
+10490,241,4,99.28999999999999,France,2,Lost/Hibernating
+10491,59,1,60.89999999999999,Netherlands,2,Lost/Hibernating
+10492,155,7,453.23,Spain,0,At-Risk Spenders
+10493,10,10,726.31,Netherlands,1,Loyal Spenders
+10494,152,11,601.88,United Kingdom,0,At-Risk Spenders
+10495,10,28,3640.4900000000002,Netherlands,1,Loyal Spenders
+10496,3,14,277.97,United Kingdom,1,Loyal Spenders
+10498,104,1,75.33,United Kingdom,2,Lost/Hibernating
+10499,14,17,1358.6200000000001,United Kingdom,1,Loyal Spenders
+10500,105,2,113.42,Netherlands,2,Lost/Hibernating
+10501,82,68,7355.46,Netherlands,3,Champions
+10502,446,3,112.83,EIRE,2,Lost/Hibernating
+10503,186,8,404.53000000000003,United Kingdom,0,At-Risk Spenders
+10504,58,23,701.98,United Kingdom,3,Champions
+10505,7,9,183.87,United Kingdom,1,Loyal Spenders
+10506,10,5,261.99,United Kingdom,1,Loyal Spenders
+10507,200,6,160.84,United Kingdom,0,At-Risk Spenders
+10510,122,1,23.9,United Kingdom,2,Lost/Hibernating
+10511,203,3,125.08,Netherlands,2,Lost/Hibernating
+10512,5,1,139.52,France,2,Lost/Hibernating
+10513,230,10,803.32,Germany,3,Champions
+10514,297,1,76.69,United Kingdom,2,Lost/Hibernating
+10515,45,30,984.15,Netherlands,3,Champions
+10516,34,18,921.89,Germany,1,Loyal Spenders
+10517,328,1,27.77,Netherlands,2,Lost/Hibernating
+10518,25,16,299.35,EIRE,1,Loyal Spenders
+10519,127,1,34.23,Germany,2,Lost/Hibernating
+10520,218,9,244.63,United Kingdom,0,At-Risk Spenders
+10521,36,41,1775.3,EIRE,3,Champions
+10522,19,2,42.97,United Kingdom,2,Lost/Hibernating
+10523,7,39,2162.18,Spain,1,Loyal Spenders
+10524,439,1,160.2,United Kingdom,2,Lost/Hibernating
+10525,198,35,6303.48,United Kingdom,3,Champions
+10526,28,8,253.02,Netherlands,0,At-Risk Spenders
+10527,40,3,324.06,EIRE,0,At-Risk Spenders
+10528,573,2,60.99,United Kingdom,2,Lost/Hibernating
+10529,4,32,838.28,United Kingdom,1,Loyal Spenders
+10530,15,7,204.24,United Kingdom,0,At-Risk Spenders
+10531,260,4,103.31,France,2,Lost/Hibernating
+10532,37,7,211.88,United Kingdom,0,At-Risk Spenders
+10533,7,2,95.68,Spain,2,Lost/Hibernating
+10534,51,5,728.14,United Kingdom,0,At-Risk Spenders
+10535,694,3,275.67,Spain,0,At-Risk Spenders
+10536,1,3,272.7,France,1,Loyal Spenders
+10537,276,3,110.2,United Kingdom,2,Lost/Hibernating
+10538,507,8,381.77,Spain,0,At-Risk Spenders
+10539,167,6,460.59,France,0,At-Risk Spenders
+10540,62,13,790.95,Germany,3,Champions
+10541,6,11,766.01,United Kingdom,1,Loyal Spenders
+10542,21,12,905.28,United Kingdom,1,Loyal Spenders
+10543,13,49,2513.2400000000002,Germany,1,Loyal Spenders
+10544,125,14,1536.5,France,3,Champions
+10545,251,1,53.94,EIRE,2,Lost/Hibernating
+10546,7,8,712.74,EIRE,1,Loyal Spenders
+10547,535,15,334.27,United Kingdom,0,At-Risk Spenders
+10548,106,4,413.72999999999996,United Kingdom,0,At-Risk Spenders
+10549,157,8,1272.25,United Kingdom,3,Champions
+10550,252,51,3735.53,EIRE,3,Champions
+10551,415,5,244.27,United Kingdom,0,At-Risk Spenders
+10552,66,35,1041.44,United Kingdom,3,Champions
+10553,58,7,237.91,EIRE,0,At-Risk Spenders
+10554,16,10,738.88,United Kingdom,1,Loyal Spenders
+10556,16,11,357.33,United Kingdom,1,Loyal Spenders
+10557,17,15,1173.89,Spain,1,Loyal Spenders
+10558,56,16,785.56,France,3,Champions
+10559,3,31,676.31,United Kingdom,1,Loyal Spenders
+10560,89,12,231.16,United Kingdom,0,At-Risk Spenders
+10561,1,5,105.33,United Kingdom,1,Loyal Spenders
+10562,7,10,224.43,France,1,Loyal Spenders
+10563,41,52,1529.31,United Kingdom,3,Champions
+10564,175,25,943.22,United Kingdom,3,Champions
+10565,14,10,331.43,Spain,1,Loyal Spenders
+10566,77,7,230.05,Germany,0,At-Risk Spenders
+10568,6,19,3741.51,Spain,1,Loyal Spenders
+10569,82,17,1173.61,EIRE,3,Champions
+10570,497,8,383.57,United Kingdom,0,At-Risk Spenders
+10571,371,1,15.42,France,2,Lost/Hibernating
+10572,58,1,28.79,EIRE,2,Lost/Hibernating
+10573,49,4,322.51,United Kingdom,0,At-Risk Spenders
+10574,122,1,51.160000000000004,Netherlands,2,Lost/Hibernating
+10575,34,13,804.38,Germany,1,Loyal Spenders
+10576,107,1,154.59,France,2,Lost/Hibernating
+10577,72,12,635.03,Netherlands,3,Champions
+10578,24,5,223.23,EIRE,0,At-Risk Spenders
+10579,222,4,111.75,United Kingdom,0,At-Risk Spenders
+10580,104,2,370.78,Germany,0,At-Risk Spenders
+10581,374,2,351.35,EIRE,0,At-Risk Spenders
+10582,112,1,35.93,Netherlands,2,Lost/Hibernating
+10583,345,5,863.49,United Kingdom,0,At-Risk Spenders
+10584,5,7,306.53000000000003,Netherlands,1,Loyal Spenders
+10585,394,9,223.94,Netherlands,0,At-Risk Spenders
+10586,38,8,564.06,France,0,At-Risk Spenders
+10587,306,11,293.03,Germany,0,At-Risk Spenders
+10588,11,17,1192.6,EIRE,1,Loyal Spenders
+10589,415,3,268.0,United Kingdom,0,At-Risk Spenders
+10590,2,8,376.68,United Kingdom,1,Loyal Spenders
+10591,147,4,214.87,Spain,0,At-Risk Spenders
+10592,19,13,897.06,United Kingdom,1,Loyal Spenders
+10593,148,4,315.85,United Kingdom,0,At-Risk Spenders
+10594,11,5,110.85,United Kingdom,0,At-Risk Spenders
+10595,658,1,30.509999999999998,Spain,2,Lost/Hibernating
+10597,142,7,533.65,EIRE,0,At-Risk Spenders
+10598,1,58,1649.6200000000001,United Kingdom,1,Loyal Spenders
+10599,46,1,102.59,Netherlands,2,Lost/Hibernating
+10600,63,3,126.38,United Kingdom,2,Lost/Hibernating
+10601,634,4,276.67,Netherlands,0,At-Risk Spenders
+10602,541,2,116.41,United Kingdom,2,Lost/Hibernating
+10603,1,23,969.9399999999999,United Kingdom,1,Loyal Spenders
+10605,46,6,230.48000000000002,Spain,0,At-Risk Spenders
+10606,3,10,247.44,United Kingdom,1,Loyal Spenders
+10607,245,19,383.86,Germany,3,Champions
+10608,9,4,83.11,United Kingdom,0,At-Risk Spenders
+10609,14,8,192.75,United Kingdom,0,At-Risk Spenders
+10610,172,29,1520.58,Spain,3,Champions
+10612,9,41,1094.01,Spain,1,Loyal Spenders
+10613,14,28,1618.03,United Kingdom,1,Loyal Spenders
+10614,246,3,416.54,Germany,0,At-Risk Spenders
+10615,10,21,1302.32,United Kingdom,1,Loyal Spenders
+10616,14,36,968.1,France,1,Loyal Spenders
+10617,20,31,1031.62,United Kingdom,1,Loyal Spenders
+10618,338,3,89.55,Netherlands,2,Lost/Hibernating
+10619,138,8,383.92,Netherlands,0,At-Risk Spenders
+10620,468,6,159.26,United Kingdom,0,At-Risk Spenders
+10621,2,32,1467.21,EIRE,1,Loyal Spenders
+10622,88,6,301.99,Spain,0,At-Risk Spenders
+10623,160,11,579.44,United Kingdom,0,At-Risk Spenders
+10624,311,7,312.0,Netherlands,0,At-Risk Spenders
+10625,275,4,264.22,United Kingdom,0,At-Risk Spenders
+10626,321,28,1930.45,United Kingdom,3,Champions
+10627,79,4,119.19,France,0,At-Risk Spenders
+10628,413,1,32.34,United Kingdom,2,Lost/Hibernating
+10629,1,14,864.58,EIRE,1,Loyal Spenders
+10630,11,19,680.83,France,1,Loyal Spenders
+10631,498,5,354.49,United Kingdom,0,At-Risk Spenders
+10632,57,2,188.6,United Kingdom,2,Lost/Hibernating
+10633,11,16,815.3000000000001,Spain,1,Loyal Spenders
+10634,222,13,580.14,EIRE,3,Champions
+10635,592,4,224.47,Germany,0,At-Risk Spenders
+10636,234,8,230.56,United Kingdom,0,At-Risk Spenders
+10637,39,10,296.84000000000003,Netherlands,0,At-Risk Spenders
+10638,110,19,485.37,Spain,3,Champions
+10639,1,17,1119.55,United Kingdom,1,Loyal Spenders
+10640,278,11,530.0,United Kingdom,0,At-Risk Spenders
+10641,221,54,3646.41,United Kingdom,3,Champions
+10642,468,4,86.99,United Kingdom,2,Lost/Hibernating
+10643,261,14,787.45,France,3,Champions
+10644,74,9,273.11,United Kingdom,0,At-Risk Spenders
+10645,6,26,876.15,United Kingdom,1,Loyal Spenders
+10646,275,19,882.04,United Kingdom,3,Champions
+10648,110,3,146.39000000000001,United Kingdom,0,At-Risk Spenders
+10649,82,7,393.51,United Kingdom,0,At-Risk Spenders
+10650,92,11,362.41,France,0,At-Risk Spenders
+10651,109,33,2932.45,Spain,3,Champions
+10652,7,20,696.5699999999999,United Kingdom,1,Loyal Spenders
+10653,8,9,1744.49,EIRE,1,Loyal Spenders
+10654,83,3,186.73,EIRE,0,At-Risk Spenders
+10655,108,14,2256.75,Germany,3,Champions
+10656,443,1,23.27,Germany,2,Lost/Hibernating
+10657,41,13,1214.61,United Kingdom,3,Champions
+10658,26,6,182.38,EIRE,0,At-Risk Spenders
+10659,233,11,252.0,United Kingdom,0,At-Risk Spenders
+10660,338,5,281.39,Spain,0,At-Risk Spenders
+10661,18,4,92.39,United Kingdom,0,At-Risk Spenders
+10662,17,17,893.01,United Kingdom,1,Loyal Spenders
+10663,379,9,499.84,Netherlands,0,At-Risk Spenders
+10664,45,11,365.74,United Kingdom,0,At-Risk Spenders
+10665,38,11,419.3,United Kingdom,0,At-Risk Spenders
+10666,136,10,356.78000000000003,United Kingdom,0,At-Risk Spenders
+10667,30,12,1528.3,United Kingdom,1,Loyal Spenders
+10668,85,20,481.34000000000003,Netherlands,3,Champions
+10669,561,5,130.92,Spain,0,At-Risk Spenders
+10670,127,5,268.07,United Kingdom,0,At-Risk Spenders
+10671,12,11,412.1,France,1,Loyal Spenders
+10672,154,31,805.14,United Kingdom,3,Champions
+10673,142,9,222.86,United Kingdom,0,At-Risk Spenders
+10674,174,33,1076.44,Netherlands,3,Champions
+10675,500,2,234.09,United Kingdom,2,Lost/Hibernating
+10676,266,2,90.14,United Kingdom,2,Lost/Hibernating
+10677,398,1,37.44,United Kingdom,2,Lost/Hibernating
+10678,2,4,154.64,France,1,Loyal Spenders
+10679,180,3,300.01,France,0,At-Risk Spenders
+10680,9,18,1622.1,United Kingdom,1,Loyal Spenders
+10681,82,12,1128.72,Netherlands,3,Champions
+10682,23,3,188.78,Spain,0,At-Risk Spenders
+10683,212,6,538.66,United Kingdom,0,At-Risk Spenders
+10684,66,19,342.51,United Kingdom,0,At-Risk Spenders
+10685,458,6,197.97,Netherlands,0,At-Risk Spenders
+10686,17,8,593.0,United Kingdom,1,Loyal Spenders
+10687,106,27,2847.17,France,3,Champions
+10688,297,8,170.15,EIRE,0,At-Risk Spenders
+10689,17,8,1007.1800000000001,Germany,1,Loyal Spenders
+10690,74,11,678.19,United Kingdom,3,Champions
+10691,413,9,222.79,Germany,0,At-Risk Spenders
+10692,141,1,32.62,Spain,2,Lost/Hibernating
+10693,85,11,514.15,United Kingdom,0,At-Risk Spenders
+10694,519,4,114.46000000000001,France,2,Lost/Hibernating
+10695,93,22,861.47,Germany,3,Champions
+10696,4,12,297.21,United Kingdom,1,Loyal Spenders
+10697,5,18,571.8,Germany,1,Loyal Spenders
+10698,57,5,536.13,EIRE,0,At-Risk Spenders
+10699,34,6,199.19,Netherlands,0,At-Risk Spenders
+10700,302,10,236.56,Germany,0,At-Risk Spenders
+10701,7,8,290.03000000000003,United Kingdom,1,Loyal Spenders
+10702,395,8,293.86,France,0,At-Risk Spenders
+10703,4,19,979.65,United Kingdom,1,Loyal Spenders
+10704,80,28,2039.75,United Kingdom,3,Champions
+10705,314,4,235.96,EIRE,0,At-Risk Spenders
+10706,300,3,117.51,Netherlands,2,Lost/Hibernating
+10707,121,29,1215.23,United Kingdom,3,Champions
+10708,39,1,100.94999999999999,United Kingdom,2,Lost/Hibernating
+10709,27,23,423.69,United Kingdom,1,Loyal Spenders
+10710,174,5,174.61,France,0,At-Risk Spenders
+10711,8,12,800.11,United Kingdom,1,Loyal Spenders
+10712,64,2,66.57000000000001,Spain,2,Lost/Hibernating
+10713,13,6,658.28,United Kingdom,1,Loyal Spenders
+10714,1,9,361.82,Spain,1,Loyal Spenders
+10715,480,20,717.93,United Kingdom,3,Champions
+10716,2,30,1104.05,United Kingdom,1,Loyal Spenders
+10717,118,14,1206.29,Germany,3,Champions
+10718,1,22,1262.32,United Kingdom,1,Loyal Spenders
+10719,2,47,2458.18,United Kingdom,1,Loyal Spenders
+10720,407,4,149.63,United Kingdom,0,At-Risk Spenders
+10721,14,8,735.46,Germany,1,Loyal Spenders
+10722,189,6,536.67,United Kingdom,0,At-Risk Spenders
+10723,291,2,79.29,Spain,2,Lost/Hibernating
+10725,19,14,335.25,Netherlands,1,Loyal Spenders
+10726,180,41,4422.56,France,3,Champions
+10727,32,7,215.73000000000002,United Kingdom,0,At-Risk Spenders
+10728,108,1,43.82,Spain,2,Lost/Hibernating
+10729,1,53,1802.31,Germany,1,Loyal Spenders
+10730,70,2,104.98,France,2,Lost/Hibernating
+10731,357,2,53.74,Spain,2,Lost/Hibernating
+10734,479,6,343.53999999999996,France,0,At-Risk Spenders
+10735,351,11,397.96999999999997,EIRE,0,At-Risk Spenders
+10736,1,31,923.9,United Kingdom,1,Loyal Spenders
+10737,448,18,1628.67,Netherlands,3,Champions
+10739,156,14,1152.81,United Kingdom,3,Champions
+10740,43,17,363.18,France,0,At-Risk Spenders
+10741,238,3,100.34,EIRE,2,Lost/Hibernating
+10742,60,5,157.24,Netherlands,0,At-Risk Spenders
+10743,15,26,821.99,United Kingdom,1,Loyal Spenders
+10744,562,3,59.58,United Kingdom,2,Lost/Hibernating
+10745,15,9,697.47,France,1,Loyal Spenders
+10746,433,29,1372.95,Netherlands,3,Champions
+10747,364,49,3905.12,France,3,Champions
+10748,122,7,363.27,Spain,0,At-Risk Spenders
+10749,472,15,459.88,Netherlands,3,Champions
+10750,361,2,46.27,United Kingdom,2,Lost/Hibernating
+10751,93,7,226.24,EIRE,0,At-Risk Spenders
+10752,23,8,306.04,Germany,0,At-Risk Spenders
+10753,96,13,326.6,France,0,At-Risk Spenders
+10754,265,6,840.64,Germany,0,At-Risk Spenders
+10755,308,1,19.81,France,2,Lost/Hibernating
+10756,56,10,1666.31,United Kingdom,3,Champions
+10757,2,22,947.59,United Kingdom,1,Loyal Spenders
+10758,7,67,1293.15,Netherlands,1,Loyal Spenders
+10759,37,3,179.83,Spain,0,At-Risk Spenders
+10760,121,16,2628.96,Netherlands,3,Champions
+10761,2,27,3650.58,United Kingdom,1,Loyal Spenders
+10762,456,2,295.9,EIRE,0,At-Risk Spenders
+10763,54,17,542.85,EIRE,3,Champions
+10764,16,23,525.49,Spain,1,Loyal Spenders
+10765,220,2,44.97,Spain,2,Lost/Hibernating
+10766,267,3,92.50999999999999,Spain,2,Lost/Hibernating
+10767,151,4,216.16,United Kingdom,0,At-Risk Spenders
+10768,142,1,25.46,United Kingdom,2,Lost/Hibernating
+10769,465,4,431.8,United Kingdom,0,At-Risk Spenders
+10770,177,15,501.72,Germany,3,Champions
+10771,322,7,702.41,EIRE,0,At-Risk Spenders
+10772,3,81,6439.27,Spain,1,Loyal Spenders
+10773,161,1,46.72,United Kingdom,2,Lost/Hibernating
+10774,53,4,155.07999999999998,Germany,0,At-Risk Spenders
+10775,2,8,637.41,United Kingdom,1,Loyal Spenders
+10777,187,1,27.08,EIRE,2,Lost/Hibernating
+10778,9,10,685.67,United Kingdom,1,Loyal Spenders
+10779,130,47,6223.85,United Kingdom,3,Champions
+10780,173,10,460.06,Netherlands,0,At-Risk Spenders
+10781,243,12,370.42,United Kingdom,0,At-Risk Spenders
+10782,9,5,106.41,EIRE,0,At-Risk Spenders
+10783,346,3,129.25,United Kingdom,2,Lost/Hibernating
+10784,663,10,826.5600000000001,Netherlands,3,Champions
+10785,197,17,839.51,EIRE,3,Champions
+10786,32,5,650.59,Spain,0,At-Risk Spenders
+10788,13,5,177.1,United Kingdom,0,At-Risk Spenders
+10789,132,3,79.47,EIRE,2,Lost/Hibernating
+10790,207,19,438.7,United Kingdom,3,Champions
+10791,53,15,1436.27,United Kingdom,3,Champions
+10792,128,1,112.11,Spain,2,Lost/Hibernating
+10794,201,43,768.93,United Kingdom,3,Champions
+10795,309,1,46.699999999999996,United Kingdom,2,Lost/Hibernating
+10796,23,4,207.32999999999998,United Kingdom,0,At-Risk Spenders
+10797,15,13,544.18,France,1,Loyal Spenders
+10798,43,9,408.96,Netherlands,0,At-Risk Spenders
+10799,61,10,276.72,Spain,0,At-Risk Spenders
+10800,248,11,492.72,Germany,0,At-Risk Spenders
+10801,279,22,1273.7,Germany,3,Champions
+10802,386,1,162.36,Netherlands,2,Lost/Hibernating
+10804,34,10,1037.08,Germany,1,Loyal Spenders
+10806,62,4,279.28,United Kingdom,0,At-Risk Spenders
+10808,11,100,3855.76,United Kingdom,1,Loyal Spenders
+10809,11,10,320.43,France,1,Loyal Spenders
+10810,195,2,55.04,France,2,Lost/Hibernating
+10811,59,8,1017.36,EIRE,3,Champions
+10812,51,1,95.88,France,2,Lost/Hibernating
+10813,60,8,584.02,France,0,At-Risk Spenders
+10814,23,1,14.13,France,2,Lost/Hibernating
+10815,2,21,503.11,France,1,Loyal Spenders
+10816,29,5,113.56,EIRE,0,At-Risk Spenders
+10817,27,25,859.69,France,1,Loyal Spenders
+10818,198,4,299.06,France,0,At-Risk Spenders
+10819,198,6,126.66,EIRE,0,At-Risk Spenders
+10820,655,7,275.15999999999997,EIRE,0,At-Risk Spenders
+10821,54,5,469.49,Spain,0,At-Risk Spenders
+10822,122,4,216.89,France,0,At-Risk Spenders
+10823,4,36,2596.8,France,1,Loyal Spenders
+10824,567,8,483.23,Netherlands,0,At-Risk Spenders
+10825,565,1,56.83,France,2,Lost/Hibernating
+10826,356,26,856.02,France,3,Champions
+10827,38,23,1873.77,Spain,3,Champions
+10828,503,1,70.65,United Kingdom,2,Lost/Hibernating
+10829,179,4,185.2,EIRE,0,At-Risk Spenders
+10831,45,65,1595.28,Netherlands,3,Champions
+10832,52,95,6890.23,EIRE,3,Champions
+10833,3,1,21.45,United Kingdom,2,Lost/Hibernating
+10835,180,2,38.53,EIRE,2,Lost/Hibernating
+10836,234,11,245.87,EIRE,0,At-Risk Spenders
+10837,497,5,227.1,EIRE,0,At-Risk Spenders
+10838,102,14,362.75,United Kingdom,0,At-Risk Spenders
+10839,24,67,5040.83,France,3,Champions
+10840,48,5,330.74,Germany,0,At-Risk Spenders
+10841,8,52,2138.17,Germany,1,Loyal Spenders
+10842,42,8,320.77,Germany,0,At-Risk Spenders
+10843,16,24,4619.04,EIRE,1,Loyal Spenders
+10844,495,3,95.29,Netherlands,2,Lost/Hibernating
+10845,31,26,1051.76,Spain,1,Loyal Spenders
+10846,266,26,682.83,France,3,Champions
+10847,75,37,2795.02,France,3,Champions
+10848,9,5,847.02,United Kingdom,1,Loyal Spenders
+10849,4,23,991.7,Spain,1,Loyal Spenders
+10850,367,3,115.29,Spain,2,Lost/Hibernating
+10851,74,5,432.79,United Kingdom,0,At-Risk Spenders
+10852,278,35,2352.54,United Kingdom,3,Champions
+10853,88,1,27.560000000000002,Netherlands,2,Lost/Hibernating
+10854,301,8,603.21,Spain,0,At-Risk Spenders
+10855,266,1,48.620000000000005,France,2,Lost/Hibernating
+10856,174,7,816.41,United Kingdom,0,At-Risk Spenders
+10857,153,22,1140.14,Netherlands,3,Champions
+10858,103,17,610.79,France,3,Champions
+10859,300,16,613.33,Netherlands,3,Champions
+10860,131,11,327.84,France,0,At-Risk Spenders
+10861,112,2,83.87,EIRE,2,Lost/Hibernating
+10862,76,7,192.67,Netherlands,0,At-Risk Spenders
+10863,457,4,215.53,United Kingdom,0,At-Risk Spenders
+10864,119,5,154.46,Germany,0,At-Risk Spenders
+10865,13,2,40.99,United Kingdom,2,Lost/Hibernating
+10866,4,21,884.9,United Kingdom,1,Loyal Spenders
+10867,125,6,193.3,Germany,0,At-Risk Spenders
+10868,47,16,396.71,Spain,0,At-Risk Spenders
+10869,258,6,319.55,EIRE,0,At-Risk Spenders
+10870,585,3,228.38,United Kingdom,0,At-Risk Spenders
+10871,176,22,2758.77,Germany,3,Champions
+10873,102,19,1001.2,Netherlands,3,Champions
+10874,1,10,813.44,Spain,1,Loyal Spenders
+10876,39,6,126.15,France,0,At-Risk Spenders
+10877,423,12,426.26,France,0,At-Risk Spenders
+10878,119,13,734.82,United Kingdom,3,Champions
+10879,284,3,68.96,EIRE,2,Lost/Hibernating
+10880,5,5,247.99,United Kingdom,1,Loyal Spenders
+10881,3,59,2057.07,EIRE,1,Loyal Spenders
+10882,12,16,708.23,Netherlands,1,Loyal Spenders
+10884,186,30,1909.35,United Kingdom,3,Champions
+10886,349,38,1188.89,United Kingdom,3,Champions
+10887,61,9,594.68,EIRE,0,At-Risk Spenders
+10888,20,11,676.6,EIRE,1,Loyal Spenders
+10889,174,4,195.59,EIRE,0,At-Risk Spenders
+10890,117,5,194.22,United Kingdom,0,At-Risk Spenders
+10891,336,5,303.14,United Kingdom,0,At-Risk Spenders
+10892,152,37,903.69,EIRE,3,Champions
+10893,11,25,940.0,United Kingdom,1,Loyal Spenders
+10894,2,13,544.52,United Kingdom,1,Loyal Spenders
+10895,62,8,315.56,Netherlands,0,At-Risk Spenders
+10896,386,14,1022.43,EIRE,3,Champions
+10897,400,1,98.22999999999999,France,2,Lost/Hibernating
+10898,8,19,745.46,United Kingdom,1,Loyal Spenders
+10899,21,4,242.5,Spain,0,At-Risk Spenders
+10900,423,13,529.49,United Kingdom,3,Champions
+10901,94,15,895.24,Spain,3,Champions
+10902,325,11,862.08,Spain,3,Champions
+10903,301,13,699.51,EIRE,3,Champions
+10904,229,4,81.65,United Kingdom,2,Lost/Hibernating
+10905,79,4,391.36,Netherlands,0,At-Risk Spenders
+10907,94,29,2849.03,United Kingdom,3,Champions
+10908,181,9,307.9,Germany,0,At-Risk Spenders
+10909,25,21,1939.26,France,1,Loyal Spenders
+10911,6,35,1388.93,EIRE,1,Loyal Spenders
+10912,220,5,193.92000000000002,Germany,0,At-Risk Spenders
+10913,265,25,630.92,Spain,3,Champions
+10914,346,13,485.59000000000003,EIRE,0,At-Risk Spenders
+10915,166,9,500.58,EIRE,0,At-Risk Spenders
+10917,320,9,367.81,EIRE,0,At-Risk Spenders
+10918,30,5,117.27,France,0,At-Risk Spenders
+10919,543,2,59.51,EIRE,2,Lost/Hibernating
+10920,11,29,1473.48,United Kingdom,1,Loyal Spenders
+10921,595,5,202.03,United Kingdom,0,At-Risk Spenders
+10922,371,2,143.51,France,2,Lost/Hibernating
+10923,293,18,521.64,United Kingdom,3,Champions
+10924,49,2,35.6,United Kingdom,2,Lost/Hibernating
+10925,125,6,219.22,EIRE,0,At-Risk Spenders
+10926,20,22,1394.36,Germany,1,Loyal Spenders
+10927,2,50,2350.46,United Kingdom,1,Loyal Spenders
+10928,240,5,170.19,United Kingdom,0,At-Risk Spenders
+10929,26,17,938.8199999999999,EIRE,1,Loyal Spenders
+10930,27,4,228.74,France,0,At-Risk Spenders
+10931,174,3,296.3,Germany,0,At-Risk Spenders
+10932,186,31,1140.84,EIRE,3,Champions
+10933,279,1,217.6,Spain,2,Lost/Hibernating
+10934,172,4,1140.28,United Kingdom,0,At-Risk Spenders
+10935,61,6,250.31,Spain,0,At-Risk Spenders
+10936,40,20,1568.67,EIRE,3,Champions
+10937,23,22,843.76,United Kingdom,1,Loyal Spenders
+10938,3,22,631.07,United Kingdom,1,Loyal Spenders
+10939,90,48,1291.42,United Kingdom,3,Champions
+10940,95,7,1895.71,Netherlands,3,Champions
+10941,203,40,1293.51,Netherlands,3,Champions
+10942,172,2,258.56,Netherlands,0,At-Risk Spenders
+10943,12,14,1136.58,EIRE,1,Loyal Spenders
+10944,156,14,1434.36,EIRE,3,Champions
+10945,383,9,408.78,United Kingdom,0,At-Risk Spenders
+10947,412,4,112.13,France,2,Lost/Hibernating
+10948,312,3,112.73,United Kingdom,2,Lost/Hibernating
+10949,530,2,29.55,Germany,2,Lost/Hibernating
+10950,22,23,927.74,Netherlands,1,Loyal Spenders
+10951,7,21,2322.81,United Kingdom,1,Loyal Spenders
+10953,1,64,5489.45,France,1,Loyal Spenders
+10954,320,19,1936.78,United Kingdom,3,Champions
+10955,390,7,166.84,Germany,0,At-Risk Spenders
+10956,18,41,957.56,United Kingdom,1,Loyal Spenders
+10957,11,59,7061.78,United Kingdom,1,Loyal Spenders
+10958,74,6,220.0,United Kingdom,0,At-Risk Spenders
+10959,94,45,1021.31,United Kingdom,3,Champions
+10960,91,1,27.88,France,2,Lost/Hibernating
+10961,13,21,1900.68,EIRE,1,Loyal Spenders
+10962,8,41,1177.96,EIRE,1,Loyal Spenders
+10963,370,1,23.55,Germany,2,Lost/Hibernating
+10964,8,16,502.88,United Kingdom,1,Loyal Spenders
+10965,125,1,27.65,Germany,2,Lost/Hibernating
+10966,22,8,510.5,Spain,1,Loyal Spenders
+10967,2,7,487.85,France,1,Loyal Spenders
+10969,286,42,1729.1000000000001,United Kingdom,3,Champions
+10970,222,2,52.709999999999994,Spain,2,Lost/Hibernating
+10971,260,6,218.68,United Kingdom,0,At-Risk Spenders
+10972,150,1,33.67,Spain,2,Lost/Hibernating
+10973,60,3,88.33,Netherlands,2,Lost/Hibernating
+10974,2,1,36.87,United Kingdom,2,Lost/Hibernating
+10975,84,2,116.16,United Kingdom,2,Lost/Hibernating
+10976,75,5,165.87,United Kingdom,0,At-Risk Spenders
+10977,137,2,50.68,Spain,2,Lost/Hibernating
+10978,18,3,79.96000000000001,United Kingdom,2,Lost/Hibernating
+10979,34,4,70.21000000000001,United Kingdom,2,Lost/Hibernating
+10980,2,5,110.25,EIRE,1,Loyal Spenders
+10981,121,8,238.67,Netherlands,0,At-Risk Spenders
+10982,395,7,279.15,Germany,0,At-Risk Spenders
+10983,352,2,140.2,United Kingdom,2,Lost/Hibernating
+10984,246,8,236.89000000000001,France,0,At-Risk Spenders
+10985,501,2,60.22,EIRE,2,Lost/Hibernating
+10986,5,13,586.81,Netherlands,1,Loyal Spenders
+10987,482,11,432.17,EIRE,0,At-Risk Spenders
+10988,341,4,127.27,Netherlands,0,At-Risk Spenders
+10989,49,50,4001.09,France,3,Champions
+10990,276,2,120.59,United Kingdom,2,Lost/Hibernating
+10991,4,22,991.12,EIRE,1,Loyal Spenders
+10992,1,41,968.04,United Kingdom,1,Loyal Spenders
+10993,121,1,25.79,United Kingdom,2,Lost/Hibernating
+10994,2,16,864.04,United Kingdom,1,Loyal Spenders
+10995,6,20,886.41,Spain,1,Loyal Spenders
+10996,28,4,434.78,EIRE,0,At-Risk Spenders
+10997,267,16,690.87,United Kingdom,3,Champions
+10998,3,10,282.61,Netherlands,1,Loyal Spenders
+10999,1,6,451.9,France,1,Loyal Spenders
+11000,122,3,227.98,Germany,0,At-Risk Spenders
+11001,155,16,586.3,Netherlands,3,Champions
+11002,379,5,109.56,Spain,0,At-Risk Spenders
+11003,255,47,3096.94,Spain,3,Champions
+11004,617,2,72.58,EIRE,2,Lost/Hibernating
+11005,543,3,142.76,United Kingdom,2,Lost/Hibernating
+11006,41,3,702.91,Netherlands,0,At-Risk Spenders
+11007,36,2,137.51,EIRE,2,Lost/Hibernating
+11008,298,3,100.51,France,2,Lost/Hibernating
+11009,7,33,1130.01,EIRE,1,Loyal Spenders
+11010,322,7,223.66,Spain,0,At-Risk Spenders
+11011,338,34,1075.63,United Kingdom,3,Champions
+11012,4,14,1086.62,EIRE,1,Loyal Spenders
+11013,305,5,319.54,Spain,0,At-Risk Spenders
+11014,126,9,477.63,United Kingdom,0,At-Risk Spenders
+11015,286,15,651.98,Spain,3,Champions
+11016,42,6,159.1,EIRE,0,At-Risk Spenders
+11017,6,24,4852.91,Spain,1,Loyal Spenders
+11018,22,19,928.49,Spain,1,Loyal Spenders
+11019,293,17,722.11,United Kingdom,3,Champions
+11020,1,16,543.22,United Kingdom,1,Loyal Spenders
+11021,103,23,1032.95,United Kingdom,3,Champions
+11022,63,5,95.24,United Kingdom,0,At-Risk Spenders
+11023,66,21,2543.32,United Kingdom,3,Champions
+11024,464,8,344.45,Netherlands,0,At-Risk Spenders
+11025,69,2,40.68,Germany,2,Lost/Hibernating
+11027,77,10,323.46,France,0,At-Risk Spenders
+11028,49,3,317.39,United Kingdom,0,At-Risk Spenders
+11029,433,16,636.54,United Kingdom,3,Champions
+11030,5,11,493.63,United Kingdom,1,Loyal Spenders
+11031,44,3,115.19,France,2,Lost/Hibernating
+11032,48,12,460.59999999999997,Spain,0,At-Risk Spenders
+11033,163,13,794.72,United Kingdom,3,Champions
+11034,22,5,242.35,Spain,0,At-Risk Spenders
+11035,185,13,936.25,United Kingdom,3,Champions
+11036,100,6,275.05,France,0,At-Risk Spenders
+11037,11,6,201.91,Spain,0,At-Risk Spenders
+11038,120,1,77.28,Spain,2,Lost/Hibernating
+11039,178,1,40.25,Spain,2,Lost/Hibernating
+11040,14,6,274.32,Germany,0,At-Risk Spenders
+11041,2,12,378.54,Germany,1,Loyal Spenders
+11042,234,2,85.63,Netherlands,2,Lost/Hibernating
+11044,190,5,156.76,United Kingdom,0,At-Risk Spenders
+11045,407,2,66.84,Spain,2,Lost/Hibernating
+11046,211,12,743.25,EIRE,3,Champions
+11047,518,5,189.23,EIRE,0,At-Risk Spenders
+11048,5,31,1599.04,United Kingdom,1,Loyal Spenders
+11049,24,48,5550.38,France,3,Champions
+11050,14,10,318.33,United Kingdom,1,Loyal Spenders
+11051,25,8,1156.98,Netherlands,1,Loyal Spenders
+11053,174,1,157.34,Germany,2,Lost/Hibernating
+11054,80,27,919.99,France,3,Champions
+11055,59,29,903.86,Netherlands,3,Champions
+11056,14,48,2073.63,France,1,Loyal Spenders
+11057,170,14,373.56,United Kingdom,0,At-Risk Spenders
+11058,207,11,796.52,United Kingdom,3,Champions
+11059,484,2,98.01,United Kingdom,2,Lost/Hibernating
+11060,23,5,141.0,Netherlands,0,At-Risk Spenders
+11061,249,1,57.019999999999996,United Kingdom,2,Lost/Hibernating
+11062,4,42,1673.04,Spain,1,Loyal Spenders
+11064,76,14,1819.41,Germany,3,Champions
+11065,310,5,152.08,Germany,0,At-Risk Spenders
+11066,202,8,652.0,Spain,0,At-Risk Spenders
+11067,1,15,504.95,United Kingdom,1,Loyal Spenders
+11068,5,15,825.51,EIRE,1,Loyal Spenders
+11069,461,9,230.39,Netherlands,0,At-Risk Spenders
+11070,46,11,476.03000000000003,France,0,At-Risk Spenders
+11071,232,12,289.04,United Kingdom,0,At-Risk Spenders
+11072,22,22,1348.3,France,1,Loyal Spenders
+11074,81,19,1627.99,United Kingdom,3,Champions
+11075,24,24,1362.24,United Kingdom,1,Loyal Spenders
+11077,316,26,1209.56,EIRE,3,Champions
+11078,62,2,34.13,EIRE,2,Lost/Hibernating
+11079,35,6,342.21000000000004,United Kingdom,0,At-Risk Spenders
+11080,506,8,216.69,Spain,0,At-Risk Spenders
+11081,120,3,143.98,Netherlands,0,At-Risk Spenders
+11082,3,7,265.34000000000003,Germany,1,Loyal Spenders
+11083,21,18,1072.05,United Kingdom,1,Loyal Spenders
+11084,250,4,142.51,Germany,0,At-Risk Spenders
+11085,219,7,202.21,United Kingdom,0,At-Risk Spenders
+11086,247,11,1987.58,United Kingdom,3,Champions
+11087,55,27,904.45,Netherlands,3,Champions
+11088,407,9,324.17,Spain,0,At-Risk Spenders
+11089,553,2,116.09,France,2,Lost/Hibernating
+11090,200,9,371.12,Spain,0,At-Risk Spenders
+11091,4,3,151.81,Spain,1,Loyal Spenders
+11092,1,23,1916.14,United Kingdom,1,Loyal Spenders
+11093,6,31,1907.02,Spain,1,Loyal Spenders
+11094,48,14,1264.7,Spain,3,Champions
+11095,50,3,109.15,United Kingdom,2,Lost/Hibernating
+11096,17,15,733.1800000000001,Netherlands,1,Loyal Spenders
+11097,310,10,490.91,United Kingdom,0,At-Risk Spenders
+11098,94,32,3650.35,Spain,3,Champions
+11099,158,26,1291.54,United Kingdom,3,Champions
+11100,12,18,804.58,United Kingdom,1,Loyal Spenders
+11101,1,15,2462.91,United Kingdom,1,Loyal Spenders
+11102,330,3,176.13,United Kingdom,0,At-Risk Spenders
+11103,247,10,401.17,United Kingdom,0,At-Risk Spenders
+11104,7,23,1132.16,Spain,1,Loyal Spenders
+11105,273,6,163.77,Netherlands,0,At-Risk Spenders
+11106,352,7,241.92000000000002,France,0,At-Risk Spenders
+11107,160,26,1432.42,United Kingdom,3,Champions
+11108,9,14,636.54,EIRE,1,Loyal Spenders
+11110,1,17,475.94,Spain,1,Loyal Spenders
+11111,42,6,159.04,Spain,0,At-Risk Spenders
+11112,409,6,113.15,United Kingdom,0,At-Risk Spenders
+11113,3,14,959.19,United Kingdom,1,Loyal Spenders
+11114,375,3,231.96,Spain,0,At-Risk Spenders
+11115,143,8,559.27,Spain,0,At-Risk Spenders
+11116,108,66,1855.06,United Kingdom,3,Champions
+11117,19,11,224.89,France,1,Loyal Spenders
+11118,526,9,485.07,Netherlands,0,At-Risk Spenders
+11119,2,14,2746.9500000000003,United Kingdom,1,Loyal Spenders
+11120,14,13,328.64,France,1,Loyal Spenders
+11121,149,6,254.55,France,0,At-Risk Spenders
+11122,51,5,541.9,Netherlands,0,At-Risk Spenders
+11123,269,28,3699.85,Germany,3,Champions
+11124,10,21,721.47,Germany,1,Loyal Spenders
+11125,20,4,177.4,Germany,0,At-Risk Spenders
+11126,2,16,612.91,EIRE,1,Loyal Spenders
+11127,222,21,737.96,United Kingdom,3,Champions
+11128,4,32,1568.78,France,1,Loyal Spenders
+11129,270,5,181.75,Spain,0,At-Risk Spenders
+11130,547,3,136.8,Germany,2,Lost/Hibernating
+11131,308,1,23.400000000000002,Germany,2,Lost/Hibernating
+11132,286,5,246.17000000000002,Germany,0,At-Risk Spenders
+11133,309,41,1800.24,EIRE,3,Champions
+11134,335,24,1438.34,United Kingdom,3,Champions
+11136,451,6,413.69,Netherlands,0,At-Risk Spenders
+11137,5,3,56.69,United Kingdom,2,Lost/Hibernating
+11138,8,26,1460.11,United Kingdom,1,Loyal Spenders
+11139,472,3,87.27,Germany,2,Lost/Hibernating
+11140,19,7,354.7,France,0,At-Risk Spenders
+11141,16,6,135.37,United Kingdom,0,At-Risk Spenders
+11142,53,10,295.03000000000003,United Kingdom,0,At-Risk Spenders
+11143,225,11,309.76,Netherlands,0,At-Risk Spenders
+11144,103,29,859.94,United Kingdom,3,Champions
+11146,534,5,244.47,Germany,0,At-Risk Spenders
+11147,28,14,429.83,Netherlands,1,Loyal Spenders
+11148,346,27,1983.78,United Kingdom,3,Champions
+11149,38,8,487.85,France,0,At-Risk Spenders
+11150,72,7,278.84000000000003,United Kingdom,0,At-Risk Spenders
+11151,9,45,2101.5,France,1,Loyal Spenders
+11152,25,21,833.36,EIRE,1,Loyal Spenders
+11153,196,15,849.84,United Kingdom,3,Champions
+11154,134,2,67.59,Germany,2,Lost/Hibernating
+11155,19,23,1042.21,United Kingdom,1,Loyal Spenders
+11156,634,2,62.58,United Kingdom,2,Lost/Hibernating
+11157,97,2,71.68,United Kingdom,2,Lost/Hibernating
+11158,343,3,85.26,Spain,2,Lost/Hibernating
+11159,26,12,468.01,Germany,1,Loyal Spenders
+11160,26,7,243.66,United Kingdom,0,At-Risk Spenders
+11161,378,8,198.87,United Kingdom,0,At-Risk Spenders
+11162,279,15,539.37,Netherlands,3,Champions
+11163,60,5,153.89,Netherlands,0,At-Risk Spenders
+11164,78,5,327.88,United Kingdom,0,At-Risk Spenders
+11165,95,36,1674.57,France,3,Champions
+11166,426,10,259.55,United Kingdom,0,At-Risk Spenders
+11167,660,8,306.12,EIRE,0,At-Risk Spenders
+11168,13,8,428.87,United Kingdom,1,Loyal Spenders
+11169,479,2,319.63,Netherlands,0,At-Risk Spenders
+11170,144,5,185.9,France,0,At-Risk Spenders
+11171,10,33,1380.14,EIRE,1,Loyal Spenders
+11172,385,19,444.13,EIRE,3,Champions
+11173,185,12,323.3,United Kingdom,0,At-Risk Spenders
+11174,25,7,718.29,United Kingdom,1,Loyal Spenders
+11175,314,2,99.49,Spain,2,Lost/Hibernating
+11176,195,3,146.96,EIRE,2,Lost/Hibernating
+11177,26,40,1693.3799999999999,United Kingdom,1,Loyal Spenders
+11178,642,2,53.68,United Kingdom,2,Lost/Hibernating
+11179,149,1,26.439999999999998,Netherlands,2,Lost/Hibernating
+11180,229,7,142.71,Germany,0,At-Risk Spenders
+11181,339,5,221.14,United Kingdom,0,At-Risk Spenders
+11182,18,18,635.76,Spain,1,Loyal Spenders
+11183,17,41,1637.97,United Kingdom,1,Loyal Spenders
+11184,117,8,1539.19,France,3,Champions
+11185,262,7,179.81,Spain,0,At-Risk Spenders
+11186,19,22,1094.49,France,1,Loyal Spenders
+11187,373,4,186.53,Spain,0,At-Risk Spenders
+11188,3,11,244.44,United Kingdom,1,Loyal Spenders
+11190,97,13,454.11,EIRE,0,At-Risk Spenders
+11191,366,8,503.86,United Kingdom,0,At-Risk Spenders
+11192,43,1,57.74,United Kingdom,2,Lost/Hibernating
+11193,259,1,17.44,United Kingdom,2,Lost/Hibernating
+11194,146,4,387.02,Spain,0,At-Risk Spenders
+11195,23,19,6733.6,EIRE,1,Loyal Spenders
+11196,170,6,178.4,France,0,At-Risk Spenders
+11197,406,11,230.8,United Kingdom,0,At-Risk Spenders
+11198,126,25,584.36,Germany,3,Champions
+11199,252,3,78.78999999999999,United Kingdom,2,Lost/Hibernating
