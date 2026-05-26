@@ -111,3 +111,17 @@ Double-click `run.bat` at the root of the project directory. This script will au
    npm run dev
    ```
    Open `http://localhost:5173` in your browser.
+
+
+   ## DashBoard Previews
+
+   ### Overview Analytics
+   <img width="1058" height="291" alt="overview_2" src="https://github.com/user-attachments/assets/87e522bf-7865-410f-afd9-26e77125a46a" />
+<img width="1112" height="640" alt="overview_1" src="https://github.com/user-attachments/assets/5bb468ab-ffcb-4cea-87f4-21f8572e10b4" />
+
+   ### Cohort Retention Heatmap
+   <img width="1011" height="627" alt="cohort" src="https://github.com/user-attachments/assets/2595f52c-c806-49fa-a4e4-2ad5e66207be" />
+
+   ### Real-Time Machine Learning Simulator
+   <img width="1082" height="308" alt="ML Simulator_2" src="https://github.com/user-attachments/assets/8e41af67-564b-4483-babc-43ec7039b66d" />
+<img width="1093" height="637" alt="ML Simulator" src="https://github.com/user-attachments/assets/325a8d45-cdfc-49d9-8bbd-9c7bece6423e" />
